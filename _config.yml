@@ -10,7 +10,7 @@ title-bold: Logan Computer Science Club
 title-normal: 
 email: youremailaddress@gmail.com
 description: Our club website
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://LoganCSC.github.io" # the base hostname & protocol for your site
 author: 
 street_address: 1234 Somewhere Road
