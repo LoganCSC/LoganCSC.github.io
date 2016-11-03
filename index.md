@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: Create with Code
-description: 
+description: Example description
 image: 
 author: 
 nav-menu: 
@@ -17,7 +17,7 @@ nav-menu:
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
-				<li><a href="#one" class="button next scrolly">Get Started</a></li>
+				<li><a href="#one" class="button next scrolly">Learn more</a></li>
 			</ul>
 		</div>
 	</div>
